@@ -1,0 +1,162 @@
+#tabla{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-size: 30px;
+    float: left;
+}
+
+#centro{
+    width: 150px;
+    margin-right: 1300px;
+    margin-top:10px ;
+    float: right;
+}
+
+#btn1{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn2{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn3{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn4{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn5{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn6{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn7{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn8{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn9{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn1-1{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn2-2{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn3-3{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn4-4{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn5-5{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn6-6{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn7-7{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn8-8{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+#btn9-9{
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+.fondo1{
+    background-color: chocolate;
+}
+
+.fondo2{
+    background-color: aquamarine;
+}
+
+.fondo3{
+    background-color: darkolivegreen;
+}
+
+.fondo4{
+    background-color: fuchsia;
+}
+
+.fondo5{
+    background-color: khaki;
+}
+
+.fondo6{
+    background-color: yellow;
+}
+
+.fondo7{
+    background-color: red;
+}
+
+.fondo8{
+    background-color: green;
+}
+
+.fondo9{
+    background-color: pink;
+}
+
+.fondo10{
+    background-color: white;
+}
